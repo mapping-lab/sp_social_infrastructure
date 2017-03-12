@@ -1,0 +1,21 @@
+Shape files:
+
+PROJECTION SRC - EPSG 31983 Sirgas 2000 / UTM zone 23S
+
+Sorces: 
+
+ftp://ftp.ibge.gov.br/Censos/
+
+ftp://ftp.ibge.gov.br/Censos/Censo_Demografico_2000/
+
+ftp://ftp.ibge.gov.br/Censos/Censo_Demografico_2010/
+
+http://downloads.ibge.gov.br/downloads_geociencias\organizacao_do_territorio\malhas_territoriais\malhas_de_setores_censitarios__divisoes_intramunicipais\censo_2010
+
+http://geosampa.prefeitura.sp.gov.br/
+
+http://infocidade.prefeitura.sp.gov.br/index.php?cat=7&titulo=Demografia
+
+http://www.atlasbrasil.org.br/2013/pt/consulta/
+
+
